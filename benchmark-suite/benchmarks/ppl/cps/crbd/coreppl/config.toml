@@ -1,3 +1,7 @@
+timing = "complete"
+
+[[post]]
+runtime = "id"
 
 [[app]]
 runtime = "CorePPL2RootPPL"

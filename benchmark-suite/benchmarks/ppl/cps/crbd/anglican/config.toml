@@ -1,3 +1,8 @@
+timing = "complete"
+
+[[post]]
+runtime = "id"
+
 [[app]]
 runtime = "Anglican"
 options = "--method :importance 1000"

@@ -1,3 +1,8 @@
+timing = "complete"
+
+[[post]]
+runtime = "id"
+
 [[app]]
 runtime = "CorePPL2MExpr"
 argument = "-m mexpr-importance -p 1000 --cps none --no-early-stop --no-print-samples clads2.mc"
